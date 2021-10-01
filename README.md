@@ -12,8 +12,7 @@
 - 관리자 권한, 일반 권한
 - 정렬 기능
 - 페이징 기능
-- 사원 평가
 
 <br/><br/>
 
-> 프로젝트에 대한 자세한 내용은 [`/docs/project_doc.md`](https://github.com/TaegyunWoo/basic-web-CRUD/blob/master/docs/project_doc.md) 을 참고하세요. (링크 수정 필요)
+> 프로젝트에 대한 자세한 내용은 [`/docs/project_doc.md`](https://github.com/TaegyunWoo/Employee-Management-System/blob/master/docs/project_doc.md) 을 참고하세요. (링크 수정 필요)

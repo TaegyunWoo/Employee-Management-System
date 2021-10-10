@@ -180,7 +180,7 @@ sitemap :
     - 이름: text
     - 나이: text
     - 부서: select box
-    - 직위: text
+    - 직급: select box
     - 이메일: text
 - 값 검증
     - 모든 항목은 비어있을 수 없다.
